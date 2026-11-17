@@ -1,0 +1,12 @@
+# Byte-code
+bin/
+*.class
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# Local environment / OS
+.DS_Store
+Thumbs.db
